@@ -1,2 +1,4 @@
 # lab04
-Tecsup
+Tecsup - Estudiante de Tecsup 
+
+Me gusta los gatos 🐱 
